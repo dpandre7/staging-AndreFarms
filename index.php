@@ -1,3 +1,4 @@
+<p>Hello World! The page loads, but nothing less seems to be working.</p>
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
